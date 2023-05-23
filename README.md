@@ -14,10 +14,6 @@ Created with React.
 - Material UI for styling
 - Databases: Local Storage
 
-## Live Demo
-
-- [Live Demo Link](https://speech-expense-tracker.web.app/)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
